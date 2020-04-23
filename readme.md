@@ -5,6 +5,10 @@
 
 https://www.biendata.com/competition/ccks_2020_5/
 
+## docker
+
+提供一个打好的镜像可直接运行，见：
+https://hub.docker.com/repository/docker/wgwang/ccks2020-baseline/general
 
 ## 竞赛背景
 
