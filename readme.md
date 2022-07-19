@@ -8,17 +8,19 @@ https://www.biendata.com/competition/ccks_2020_5/
 ## docker
 
 提供一个打好的镜像可直接运行，见：
+
 https://hub.docker.com/repository/docker/wgwang/ccks2020-baseline/general
 
 
 ## 竞赛数据集
 
 竞赛的数据集已经在 SciDB 和 OpenKG 上公开发布，详情见：
-[中文领域最大规模的金融研报知识图谱数据集FR2KG](https://mp.weixin.qq.com/s/cgQq27rmU_8LqM1t07A6Pg)
+
+[**中文领域最大规模的金融研报知识图谱数据集FR2KG**](https://mp.weixin.qq.com/s/cgQq27rmU_8LqM1t07A6Pg)
 
 ## 参考书籍
 
-《[知识图谱：认知智能理论与实战](https://item.jd.com/13172503.html)》一书是绝佳的参考教材：
+《[**知识图谱：认知智能理论与实战**](https://item.jd.com/13172503.html)》一书是绝佳的参考教材：
 - 一百多张精美配图详细解析数十个知识图谱前沿算法
 - 首创知识图谱建模方法论——六韬法及模式设计工程模型
 - 全面涵盖知识图谱模式设计、构建、存储和应用技术
